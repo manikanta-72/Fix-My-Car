@@ -1,0 +1,21 @@
+twelvelabs:
+  api_credentials:
+    api_key: ""
+    api_url: https://api.twelvelabs.io/p/v1.2
+    task_url: https://api.twelvelabs.io/p/v1.2/tasks/external-provider
+    search_url: https://api.twelvelabs.io/p/v1.2/search/
+  index:
+    url: https://api.twelvelabs.io/p/v1.2/indexes
+    name: car_self_help
+    id: 652b2df23c4a426cf3f4f824
+    url_data_file: yt_car_self_help.csv 
+  marengo_index:
+    url: https://api.twelvelabs.io/p/v1.2/indexes
+    name: marengo_car_self_help
+    id: 652b45e93c4a426cf3f4f96b
+    url_data_file: yt_car_self_help_1.csv
+
+OpenAI:
+  credentials:
+    api_key: ""
+      
